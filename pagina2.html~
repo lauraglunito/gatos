@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+	<link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+<body class="continer" bgcolor="Pink">
+	<ol>Gato británico de pelo corto:</ol>
+		<p>El british shorthair, también conocido como gato británico de pelo corto, es considerada una de las razas más antiguas y populares de Gran Bretaña. ¿Estás pensando en adoptar a uno? ¿Quieres saber más sobre esta raza? En esta ficha de raza de ExpertoAnimal te mostraremos todo lo que necesitas saber del gato british shorthair, incluyendo características, carácter o todos los colores que son permitidos según el estándar, como el clásico "blue", blanco o el ahumado.</p>
+		<img width="250" src="https://www.purina.es/sites/default/files/styles/ttt_image_510/public/2021-02/CAT%20BREED%20Hero%20Mobile_0036_British_shorthair.jpg?itok=ju1ZsPFq" alt="">
+		<br>
+			<a href="index.html"><img src="https://cdn-icons-png.flaticon.com/512/8745/8745496.png" width="100">	</a>
+</body>
+</html>

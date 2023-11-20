@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>TIPOS DE GATOS</title>
+<link rel="StyleSheet" href="estilos.css" type="text/css">
+
+</head>
+<body bgcolor="Pink" class="container">
+
+	
+		<h1 align="center">Tipos de gatos</h1>
+		<hr size="6px" color="MediumVioletRed" </hr>
+			<ol>
+				<li>Gato siamés:</li>
+				<li><a href="pagina2.html">Gato británico de pelo corto</a></li>
+				
+			</ol>
+			<p>El gato siamés probablemente sea una de las razas de gatos más populares del mundo actual. El azul intenso de su mirada hace que nos quedemos embobados mirándolo y, si a eso le sumamos la combinación de colores en su pelaje, el resultado es un esbelto, elegante y adorable gato que nos roba el corazón. El gato siamés se trata de un felino originario de Tailandia que cuenta con dos variaciones, el siamés que trataremos, y el siamés thai o tradicional.</p>
+			<img width="250" src="https://verdecora.es/blog/wp-content/uploads/2016/12/gato-siames-caracter-historia.jpg.webp" alt="">
+			<br>
+			<a href="index.html"><img src="https://cdn-icons-png.flaticon.com/512/8745/8745496.png" width="100">	</a>
+			
+
+</body>
+</html>
